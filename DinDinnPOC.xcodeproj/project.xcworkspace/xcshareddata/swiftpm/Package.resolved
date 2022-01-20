@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ActivityIndicatorView",
+        "repositoryURL": "https://github.com/exyte/ActivityIndicatorView.git",
+        "state": {
+          "branch": null,
+          "revision": "ad484c6e645c41eb298e48f663ac1ed76aedde00",
+          "version": "0.0.6"
+        }
+      },
+      {
+        "package": "url-image",
+        "repositoryURL": "https://github.com/dmytro-anokhin/url-image",
+        "state": {
+          "branch": null,
+          "revision": "c1a906515b0a440927b96204b778058871b22f23",
+          "version": "2.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
